@@ -19,16 +19,13 @@ This project was done as a part of multiple design courses from the second semes
 
 ### Product Concept Poster
 
-![product-concept](./images/product_concept-1.png)
+![product-concept](./multimedia/product_concept-1.png)
 
 ### Android App UI
 
-![app](./images/app-gif.gif)
+![app](./multimedia/app-gif.gif)
 
 ### CAD Model of Microphone Case
 
-![app](./images/CAD-gif.gif)
+![app](./multimedia/CAD-gif.gif)
 
-### Microphone
-
-![app](./images/collar-mic-gif.gif)
